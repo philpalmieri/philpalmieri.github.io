@@ -4,10 +4,8 @@ date: 2026-05-15
 draft: false
 ---
 
-20+ years leading engineering teams across security, infrastructure, and mental health technology. Currently an Engineering Manager at GitHub on the Package Security team, focused on supply chain security, artifact attestation, and developer trust infrastructure.
+20+ years leading engineering teams across security, infrastructure, mental health tech, and FedRAMP government systems. Currently securing the software supply chain at GitHub.
 
-Previously led teams building healthcare platforms at scale (CMS/Medicare modernization, awarded FedHealth 2021 Innovation Award), and spent time across startups, consulting, and community building in Central Florida's tech scene.
+I thrive when I can grow engineers into the best versions of themselves. Coaching through ambiguity, helping people figure out what the next level actually looks like for them specifically, and building teams that ship without burning out.
 
-I write about engineering leadership, developer tools, AI-assisted development, supply chain security, and whatever else is rattling around in my head.
-
-Based in Sanford, FL. Co-organizer of Orlando Devs. I know some sign language and have strong opinions about one-on-ones.
+Openly AuDHD and vocal about neurodiversity in the workplace. My goal is to continue making engineering careers more accessible to brains that work differently. I speak at conferences about AI-assisted workflows and building management systems that actually work for everyone, including neurodivergent brains.
