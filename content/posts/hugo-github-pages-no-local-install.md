@@ -1,7 +1,7 @@
 ---
 title: "How I Set Up This Blog Without Installing Anything Locally"
 slug: "hugo-github-pages-no-local-install"
-date: 2026-05-15
+date: 2026-05-12T10:00:00-04:00
 draft: false
 tags: ["hugo", "github-pages", "github-actions", "blogging", "obsidian", "copilot"]
 description: "A Hugo blog on GitHub Pages where I write in Obsidian, publish with Copilot, and never install a build tool locally."

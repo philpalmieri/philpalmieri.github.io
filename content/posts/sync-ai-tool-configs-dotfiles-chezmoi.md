@@ -1,7 +1,7 @@
 ---
 title: "Your AI Tools Have Dotfiles Too. Here's How to Sync Them."
 slug: "sync-ai-tool-configs-dotfiles-chezmoi"
-date: 2026-04-28
+date: 2026-05-08T09:00:00-04:00
 draft: false
 tags: ["dotfiles", "ai-tools", "copilot", "chezmoi", "developer-experience", "terminal"]
 description: "A single prompt that audits your dev environment, sets up chezmoi, and syncs everything (including your AI tool configs) to a private repo."

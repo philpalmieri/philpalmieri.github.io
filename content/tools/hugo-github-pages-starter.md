@@ -1,7 +1,7 @@
 ---
 title: "Hugo + GitHub Pages Starter"
 slug: "hugo-github-pages-starter"
-date: 2026-05-15
+date: 2026-05-12T10:00:00-04:00
 draft: false
 repo: "https://github.com/philpalmieri/hugo-github-pages-starter"
 tags: ["hugo", "github-pages", "github-actions", "blogging", "template"]
@@ -37,7 +37,7 @@ Enable GitHub Pages (Settings > Pages > Source: "GitHub Actions"), push to main,
 ---
 title: "My Post"
 slug: "my-post-url"
-date: 2026-05-15
+date: 2026-05-12T10:00:00-04:00
 draft: false
 tags: ["topic"]
 description: "SEO description"
