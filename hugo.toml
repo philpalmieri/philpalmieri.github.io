@@ -1,0 +1,73 @@
+baseURL = "https://philpalmieri.com/"
+languageCode = "en-us"
+title = "Phil Palmieri"
+theme = "LoveIt"
+
+[params]
+  version = "0.2.X"
+  defaultTheme = "dark"
+  dateFormat = "January 2, 2006"
+
+  [params.header]
+    [params.header.title]
+      name = "Phil Palmieri"
+
+  [params.home]
+    [params.home.profile]
+      enable = true
+      title = "Phil Palmieri"
+      subtitle = "Engineering Manager · GitHub"
+      typeit = false
+    [params.home.posts]
+      enable = true
+      paginate = 10
+
+  [params.social]
+    GitHub = "philpalmieri"
+    LinkedIn = "philpalmieri"
+
+  [params.page]
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+    [params.page.code]
+      copy = true
+
+  [params.analytics]
+    enable = false
+    # We'll configure this once you pick an analytics provider
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    style = "dracula"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
