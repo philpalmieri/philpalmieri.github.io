@@ -17,6 +17,7 @@ theme = "LoveIt"
       enable = true
       title = "Phil Palmieri"
       subtitle = "Engineering Manager · GitHub"
+      avatarURL = "/images/avatar.png"
       typeit = false
     [params.home.posts]
       enable = true
@@ -25,6 +26,8 @@ theme = "LoveIt"
   [params.social]
     GitHub = "philpalmieri"
     LinkedIn = "philpalmieri"
+    Twitter = "philpalmieri"
+    Instagram = "philpalmieri"
 
   [params.page]
     [params.page.toc]
