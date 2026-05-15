@@ -8,7 +8,7 @@ tags: ["hugo", "github-pages", "github-actions", "blogging", "template"]
 description: "A template repo for spinning up a Hugo blog on GitHub Pages with zero local tooling. Write markdown, push, it's live."
 ---
 
-[hugo-github-pages-starter](https://github.com/philpalmieri/hugo-github-pages-starter)
+**GitHub Template:** [hugo-github-pages-starter](https://github.com/philpalmieri/hugo-github-pages-starter)
 
 A minimal blog starter where the entire build happens in GitHub Actions. No local Hugo install, no Ruby, no Node. Write markdown, push to main, your site deploys in 30 seconds.
 
