@@ -8,9 +8,9 @@ description: "A single prompt that audits your dev environment, sets up chezmoi,
 ---
 I've kept my dotfiles synced across machines for years. Shell configs, git aliases, editor settings; the usual. But when I looked at my setup recently, I realized I'd completely ignored the newest layer: all the AI CLI tools I now rely on daily.
 
-GitHub Copilot CLI configs, Claude Code settings, custom instructions, memory files, tool preferences. None of that was being tracked. Every new machine meant rebuilding that context from scratch.
+[GitHub Copilot CLI](https://github.com/features/copilot) configs, [Claude Code](https://docs.anthropic.com/en/docs/claude-code) settings, custom instructions, memory files, tool preferences. None of that was being tracked. Every new machine meant rebuilding that context from scratch.
 
-So I put together a single prompt you can paste into any AI assistant with terminal access (Copilot CLI, Claude Code, Cursor, whatever you use) and it will:
+So I put together a single prompt you can paste into any AI assistant with terminal access (Copilot CLI, Claude Code, [Cursor](https://cursor.sh/), whatever you use) and it will:
 
 - Audit your entire dev environment (shell, editor, terminal, git, SSH, AI tools)
 - Set up [chezmoi](https://www.chezmoi.io/) to manage and sync everything to a private GitHub repo

@@ -9,24 +9,24 @@ description: "A Hugo blog on GitHub Pages where I write in Obsidian, publish wit
 
 I wanted a blog. I didn't want to manage one.
 
-The requirements: write markdown in Obsidian, tell my AI assistant to publish it, have it show up on my domain. No local Hugo install. No Ruby. No Node build step. No "oh wait, I'm on my other laptop and don't have the toolchain." Just markdown and a conversation.
+The requirements: write markdown in [Obsidian](https://obsidian.md/), tell my AI assistant to publish it, have it show up on my domain. No local [Hugo](https://gohugo.io/) install. No Ruby. No Node build step. No "oh wait, I'm on my other laptop and don't have the toolchain." Just markdown and a conversation.
 
 ## The workflow
 
-1. Write in Obsidian (where I already live for notes, planning, everything)
-2. Tell Copilot CLI to publish it
+1. Write in [Obsidian](https://obsidian.md/) (where I already live for notes, planning, everything)
+2. Tell [Copilot CLI](https://github.com/features/copilot) to publish it
 3. Copilot copies the markdown to the blog repo, sets up frontmatter, commits, pushes
-4. GitHub Actions builds the Hugo site and deploys to Pages
+4. [GitHub Actions](https://github.com/features/actions) builds the [Hugo](https://gohugo.io/) site and deploys to [Pages](https://pages.github.com/)
 
 That's it. I never run Hugo. I never think about the build. I write, I say "publish," it's live in 30 seconds.
 
 ## The stack
 
-- **Hugo** with the [LoveIt](https://github.com/dillonzq/LoveIt) theme
-- **GitHub Pages** for hosting
-- **GitHub Actions** for the build (the only place Hugo runs)
-- **GoatCounter** for analytics (free, no cookies, no GDPR banners)
-- Custom domain with HTTPS via GitHub's Let's Encrypt integration
+- **[Hugo](https://gohugo.io/)** with the [LoveIt](https://github.com/dillonzq/LoveIt) theme
+- **[GitHub Pages](https://pages.github.com/)** for hosting
+- **[GitHub Actions](https://github.com/features/actions)** for the build (the only place Hugo runs)
+- **[GoatCounter](https://www.goatcounter.com/)** for analytics (free, no cookies, no GDPR banners)
+- Custom domain with HTTPS via GitHub's [Let's Encrypt](https://letsencrypt.org/) integration
 
 Total cost: $0/month.
 
@@ -84,7 +84,7 @@ Every action is pinned to a commit SHA (not a mutable tag). Minimal permissions.
 
 ## Why Obsidian as the writing layer
 
-I already use Obsidian for everything: daily notes, 1:1 prep, project planning, technical breakdowns. Having blog drafts live in the same vault means I can link to research, pull from existing notes, and keep drafts alongside the thinking that led to them.
+I already use [Obsidian](https://obsidian.md/) for everything: daily notes, 1:1 prep, project planning, technical breakdowns. Having blog drafts live in the same vault means I can link to research, pull from existing notes, and keep drafts alongside the thinking that led to them.
 
 The blog repo doesn't know or care about Obsidian. It just receives markdown files with Hugo frontmatter. Obsidian is the authoring environment; the repo is the publishing target. Copilot is the bridge.
 
@@ -110,4 +110,4 @@ Standard GitHub Pages custom domain: four A records pointing to GitHub's IPs, a 
 
 ## Want to do the same thing?
 
-I packaged this whole setup as a template repo: **[hugo-github-pages-starter](https://github.com/philpalmieri/hugo-github-pages-starter)**. Click "Use this template" on GitHub, enable Pages in your repo settings, push to main. You're live.
+I packaged this whole setup as a template repo: **[hugo-github-pages-starter](/tools/hugo-github-pages-starter/)**. Click "Use this template" on GitHub, enable Pages in your repo settings, push to main. You're live.
