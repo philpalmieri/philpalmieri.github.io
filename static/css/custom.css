@@ -4,9 +4,12 @@
 
 .about-photo {
   float: right;
-  width: 200px;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
   margin: 0 0 1rem 1.5rem;
-  border-radius: 8px;
+  border-radius: 100%;
+  box-shadow: 0 0 0 .3618em rgba(0, 0, 0, .05);
 }
 
 @media (max-width: 600px) {
