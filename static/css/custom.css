@@ -16,6 +16,16 @@
   box-shadow: 0 0 0 .3618em rgba(0, 0, 0, .05);
 }
 
+.content code,
+.content pre code {
+  word-wrap: normal;
+  overflow-x: auto;
+}
+
+.content pre {
+  overflow-x: auto;
+}
+
 @media (max-width: 600px) {
   .about-photo {
     float: none;
