@@ -1,5 +1,5 @@
 ---
-title: "My Copilot Doesn't Write Code"
+title: "My Copilot Doesn't Write Code: My PCARD System"
 slug: "copilot-obsidian-executive-function-adhd"
 date: 2026-05-14T08:30:00-04:00
 draft: false
@@ -8,9 +8,7 @@ tags: ["copilot", "obsidian", "adhd", "accessibility", "productivity", "engineer
 categories: ["workflow"]
 ---
 
-## My Copilot Doesn't Write Code
-
-**Subtitle:** How I use GitHub Copilot and [Obsidian](https://obsidian.md) as executive function scaffolding for my AuDHD brain.
+*How I use GitHub Copilot and [Obsidian](https://obsidian.md) as executive function scaffolding for my AuDHD brain.*
 
 ### Resources
 
