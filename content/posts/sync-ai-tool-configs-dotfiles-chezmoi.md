@@ -3,7 +3,7 @@ title: "Your AI Tools Have Dotfiles Too. Here's How to Sync Them."
 slug: "sync-ai-tool-configs-dotfiles-chezmoi"
 date: 2026-05-08T09:00:00-04:00
 draft: false
-tags: ["dotfiles", "ai-tools", "copilot", "chezmoi", "developer-experience", "terminal"]
+tags: ["dotfiles", "AI", "copilot", "chezmoi", "devx", "terminal"]
 description: "A single prompt that audits your dev environment, sets up chezmoi, and syncs everything (including your AI tool configs) to a private repo."
 ---
 I've kept my dotfiles synced across machines for years. Shell configs, git aliases, editor settings; the usual. But when I looked at my setup recently, I realized I'd completely ignored the newest layer: all the AI CLI tools I now rely on daily.

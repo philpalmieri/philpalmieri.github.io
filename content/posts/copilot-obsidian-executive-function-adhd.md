@@ -4,7 +4,7 @@ slug: "copilot-obsidian-executive-function-adhd"
 date: 2026-05-14T08:30:00-04:00
 draft: false
 description: "How I use GitHub Copilot and Obsidian as executive function scaffolding for my AuDHD brain. Not a coding tool. A thinking tool."
-tags: ["copilot", "obsidian", "adhd", "accessibility", "productivity", "engineering-management", "neurodivergent"]
+tags: ["copilot", "obsidian", "ADHD", "accessibility", "productivity", "management", "neurodivergent"]
 categories: ["workflow"]
 ---
 
