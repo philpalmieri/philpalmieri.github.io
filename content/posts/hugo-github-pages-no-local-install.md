@@ -1,6 +1,6 @@
 ---
 title: "How I Set Up This Blog Without Installing Anything Locally"
-slug: "hugo-github-pages-no-local-install"
+slug: "how-i-set-up-this-blog-without-installing-anything-locally"
 date: 2026-05-12T10:00:00-04:00
 draft: false
 tags: ["hugo", "github-pages", "github-actions", "blogging", "obsidian", "copilot"]

@@ -1,6 +1,6 @@
 ---
 title: "Your AI Tools Have Dotfiles Too. Here's How to Sync Them."
-slug: "sync-ai-tool-configs-dotfiles-chezmoi"
+slug: "your-ai-tools-have-dotfiles-too"
 date: 2026-05-08T09:00:00-04:00
 draft: false
 tags: ["dotfiles", "AI", "copilot", "chezmoi", "devx", "terminal"]
