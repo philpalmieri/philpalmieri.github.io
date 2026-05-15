@@ -7,6 +7,10 @@ theme = "LoveIt"
   version = "0.2.X"
   defaultTheme = "light"
   dateFormat = "January 2, 2006"
+  description = "Phil Palmieri (Phillip Palmieri) - Staff Engineering Manager at GitHub. Writing about engineering leadership, supply chain security, AI workflows, and neurodiversity in tech."
+  keywords = ["Phil Palmieri", "Phillip Palmieri", "engineering manager", "GitHub", "supply chain security", "neurodiversity", "software engineering"]
+  [params.seo]
+    image = "/images/avatar.png"
 
   [params.header]
     [params.header.title]

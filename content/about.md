@@ -4,7 +4,7 @@ date: 2026-05-15
 draft: false
 ---
 
-<img src="/images/avatar.png" alt="Phil Palmieri" class="about-photo">
+<img src="/images/avatar.png" alt="Phillip Palmieri - Phil Palmieri" class="about-photo">
 
 20+ years leading engineering teams across security, infrastructure, mental health tech, and FedRAMP government systems. Currently securing the software supply chain at GitHub.
 
