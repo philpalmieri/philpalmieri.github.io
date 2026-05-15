@@ -79,4 +79,4 @@ theme = "LoveIt"
     style = "dracula"
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = false
+      unsafe = true

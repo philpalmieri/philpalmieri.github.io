@@ -4,6 +4,8 @@ date: 2026-05-15
 draft: false
 ---
 
+<img src="/images/avatar.png" alt="Phil Palmieri" class="about-photo">
+
 20+ years leading engineering teams across security, infrastructure, mental health tech, and FedRAMP government systems. Currently securing the software supply chain at GitHub.
 
 The thing I'm best at is growing engineers into the best versions of themselves. Figuring out what "next level" actually means for someone specifically, not generically. Coaching through ambiguity. Building teams that ship without burning out.
