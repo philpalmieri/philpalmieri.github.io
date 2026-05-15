@@ -35,8 +35,9 @@ theme = "LoveIt"
       copy = true
 
   [params.analytics]
-    enable = false
-    # We'll configure this once you pick an analytics provider
+    enable = true
+    [params.analytics.goatCounter]
+      code = "philpalmieri"
 
 [menu]
   [[menu.main]]
