@@ -43,15 +43,7 @@ No new apps. No dashboards. No manual data entry. Just conversation.
 ## Quick start
 
 ```bash
-# Ask Copilot directly
-> install skills from philpalmieri/engineering-manager-skills
-
-# Or clone and symlink
-gh repo clone philpalmieri/engineering-manager-skills ~/Dev/engineering-manager-skills
-
-for skill in ~/Dev/engineering-manager-skills/skills/*/*; do
-  ln -sf "$skill" ~/.copilot/skills/$(basename "$skill")
-done
+gh skill install philpalmieri/engineering-manager-skills
 ```
 
 Then configure your team:
