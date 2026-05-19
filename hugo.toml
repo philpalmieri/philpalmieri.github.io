@@ -48,10 +48,6 @@ enableRobotsTXT = true
     [params.page.share]
       enable = false
 
-  [params.analytics]
-    enable = true
-    [params.analytics.goatCounter]
-      code = "philpalmieri"
 
   [params.footer]
     enable = true
