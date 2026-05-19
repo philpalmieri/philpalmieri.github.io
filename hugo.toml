@@ -2,6 +2,7 @@ baseURL = "https://philpalmieri.com/"
 languageCode = "en-us"
 title = "Phil Palmieri"
 theme = "LoveIt"
+enableRobotsTXT = true
 
 [params]
   version = "0.2.X"
