@@ -4,7 +4,7 @@
 
 Hugo static site using the [LoveIt](https://github.com/dillonzq/LoveIt) theme (git submodule). Deployed to GitHub Pages via Actions on push to `main`. Custom domain: `philpalmieri.com`.
 
-Content lives in Obsidian (`~/Documents/Obsidian/workvault/Projects/Writing/`) and is copied here for publishing. Obsidian is the source of truth for all content.
+Content lives in Obsidian (`~/Documents/mind/Projects/Writing/`) and is copied here for publishing. Obsidian is the source of truth for all content.
 
 ### Content types
 
@@ -53,7 +53,7 @@ Tools add a `repo` field pointing to the GitHub repository URL.
 
 ### Publishing workflow
 
-1. Write/edit in Obsidian vault (`Projects/Writing/Published/` for posts, `Projects/Writing/Tools/` for tools)
+1. Write/edit in Obsidian vault (`Projects/Writing/Blog/` for posts, `Projects/Writing/Tools/` for tools)
 2. Copy content to this repo under `content/posts/` or `content/tools/`
 3. Set `draft: false` and commit to `main`
 4. GitHub Actions builds and deploys automatically
