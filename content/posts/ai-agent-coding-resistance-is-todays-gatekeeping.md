@@ -10,13 +10,11 @@ description: "Every argument against AI-generated code is valid. Use it anyway. 
 
 Yeah, that title is clickbait. But I'm only like 10% sorry because it's mostly true.
 
-Yes, AI and Vibe coding is messy. Ship it anyway (one you lock it down).
+Yes, AI and Vibe coding is messy. Ship it anyway (once you lock it down).
 
-I've been writing code for over 30 years. Lately I've been building with agents, and the code they produce can be insecure, ugly, hard to maintain, inconsistent. The patterns are weird. The variable names are questionable. The architecture sometimes feels like it was designed by committee during an earthquake.
+I've been writing code for over 30 years. Lately I've been building with agents, and the code they produce can be insecure, ugly, hard to maintain, inconsistent. The patterns are weird. The variable names are questionable. The architecture sometimes feels like it was designed by committee during an earthquake. I'm not going to argue with any of that. It just doesn't matter as much as you want it to if you address it.
 
-Every risk people raise about vibe coding is legitimate. Security concerns, maintenance nightmares, inconsistent patterns, onboarding confusion. I'm not going to argue with any of that. It just doesn't matter as much as you want it to if you address it.
-
-These are all solvable problems. I'd rather be solving 'how do we harden these 10 working prototypes this quarter' than 'how do we ship this one thing this quarter.'
+I'd rather be solving 'how do we harden these 10 working prototypes this quarter' than 'how do we ship this one thing this quarter.'
 
 ## We've had this fight before
 
