@@ -1,7 +1,7 @@
 ---
 title: "Taskgregator is live on Obsidian Community Plugins"
 slug: "taskgregator-obsidian-community-plugin-launch"
-date: 2026-07-21T13:45:00-04:00
+date: 2026-07-21T13:20:00-04:00
 draft: false
 tags: ["obsidian", "tasks", "plugin", "productivity", "workflow"]
 description: "I built Taskgregator to get a Things-style task view while keeping everything native in Obsidian. It is now live in the Obsidian plugin marketplace."
